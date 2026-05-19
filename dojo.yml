@@ -1,7 +1,7 @@
 id: dsu-cyber-camp
 name: DSU Cyber Camps
 award:
-  emoji: 💾
+  emoji: 💻
 modules: 
   - import:
       dojo: welcome 
